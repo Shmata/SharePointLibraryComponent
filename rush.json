@@ -1,0 +1,17 @@
+
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/rush.schema.json",
+  "rushVersion": "5.93.1",
+  "npmVersion": "6.14.4",
+  "nodeSupportedVersionRange": ">=12.13.0 <13.0.0 || >=14.15.0 <15.0.0 || >=16.13.0 <17.0.0",
+  "projects": [
+    {
+      "packageName": "corporate-library",
+      "projectFolder":"corporate-library"
+    },
+    {
+      "packageName": "corporate-app",
+      "projectFolder": "corporate-app"
+    }
+  ]
+}
